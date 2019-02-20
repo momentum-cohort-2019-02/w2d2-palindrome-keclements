@@ -1,3 +1,5 @@
+# is someone dying? No. Then calm the fuck down Kristin!
+
 # define[function_name][(parameter)]:
     # [function+definition]
 
@@ -11,4 +13,8 @@
 def is_palindrome():
     """evaluate if the input
  
+<<<<<<< HEAD
 # is this working! 
+=======
+# read input 
+>>>>>>> 40aa67684ae9b244c1da03e4e01fd371ae68b9af
